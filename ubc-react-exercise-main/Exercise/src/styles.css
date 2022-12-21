@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+body {
+  font-size: 21px;
+}
+
+.done {
+  text-decoration: line-through;
+  color: green;
+}
+
+.open {
+}
